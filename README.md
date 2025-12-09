@@ -1,3 +1,4 @@
+Kaggle dataset link - https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 # IMDB Sentiment Analysis with Logistic Regression
 
 This project is a Natural Language Processing (NLP) implementation that classifies IMDB movie reviews as either **Positive** or **Negative**. It utilizes TF-IDF vectorization and a Logistic Regression model to achieve an accuracy of approximately **83.8%**.
